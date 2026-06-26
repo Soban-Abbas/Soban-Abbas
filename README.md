@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Soban Abbas 👋
 
-<!--
-**Soban-Abbas/Soban-Abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student — 7th Semester  
+💻 Node.js | Express.js | MongoDB| PostgreSql | Angular | Java  
+🌱 Currently mastering DSA  
+🤝 X-Angular Intern At SoftoSol Pvt-Ltd (ISB)
+🤝 Full Stack Intern CapregSoft Pvt-Ltd
+📍 Islamabad  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Backend:** Node.js
+- **Frontend:** Angular
+- **Language:**JavaScript, Java
+
+
+## 🛠️ Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soban-Abbas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soban-Abbas&layout=compact&theme=tokyonight)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Soban-Abbas&theme=tokyonight)
