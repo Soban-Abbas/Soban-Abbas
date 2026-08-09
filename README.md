@@ -10,8 +10,8 @@
 ---
 
 ## 🛠️ Skills
-- **Backend:** Node.js
-- **Frontend:** Angular
+- **Backend:** Node.js,Express.js,Nest.js,Postgres,MongoDB,Restful Api,MicroServices
+- **Frontend:** Angular,React,Next.js
 - **Language:** JavaScript, Java
 
 
