@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer  🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2F+NestJS+%2F+ExpressJS;Microservices+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Currently+Building+a+Microservices+Order+Processing+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2F+NestJS+%2F+ExpressJS;Microservices+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Currently+Building+a+Microservices+Order+Processing" alt="Typing SVG" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 ### 🏗️ Currently Building
 
-> **Microservices-based Order Processing System** — an event-driven order system using RabbitMQ, Docker, and an API Gateway, as part of a roadmap toward becoming a job-ready backend developer (followed by Docker + Kubernetes).
+> **Microservices-based Order Processing System** — an event-driven order system using RabbitMQ, Docker, and an API Gateway, as followed by Docker + Kubernetes.
 
 ---
 
