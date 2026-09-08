@@ -3,7 +3,7 @@
 <h3 align="center">Backend Developer  🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Development+%7C+Node.js+%2F+NestJS;Microservices+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Currently+Building+a+Microservices+Order+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2F+NestJS+%2F+ExpressJS;Microservices+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Currently+Building+a+Microservices+Order+Processing+System" alt="Typing SVG" />
 </p>
 
 ---
