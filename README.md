@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Soban Abbas 👋</h1>
+<h1 align="center">Hi there, I'm Soban Abbas </h1>
 
-<h3 align="center">Backend Developer  🚀</h3>
+<h3 align="center">Backend Developer  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2F+NestJS+%2F+ExpressJS;Microservices+%7C+Kafka+%2F+RabbitMQ+%2F+Redis;Currently+Building+a+Microservices+Order+Processing" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 - 🅰️ Completed an **Angular internship at Softosol Pvt Ltd**.
 - 🛠️ Completed a **backend internship at Capregsoft Pvt Ltd**.
 - 🏗️ Currently building a **Microservices-based Order Processing System** (API Gateway, RabbitMQ, Docker).
-- 📚 A final-year Computer Science student, on a roadmap of building something Special.
+- 📚 A final-year Software Engineering student, on a roadmap of building something Special.
 - 🌱 Constantly leveling up — from monoliths to microservices, from REST to event-driven architecture.
 
 ---
